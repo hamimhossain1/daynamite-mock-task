@@ -17,10 +17,15 @@ const AirlinesCard = () => {
       <h2 className="font-semibold">Filter by Alliances</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
-        {airData.map((singleAirData) => (
+        {airData?.map(({ name, phone, site, logoURL, code, alliance }) => (
           <SingleAirline
-            key={singleAirData.name}
-            singleAirData={singleAirData}
+          key={code}
+          name={name}
+          phone={phone}
+          site={site}
+          logoURL={`https://www.kayak.com/${logoURL}`}
+          code={code}
+          alliance={alliance}
           ></SingleAirline>
         ))}
       </div>
