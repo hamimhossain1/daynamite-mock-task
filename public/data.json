@@ -1,0 +1,56 @@
+[
+    {
+      "id": "63350faf5b2a1c04da6ca2fe",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 20,
+      "breakTime": 20,
+      "picture": "https://i.ibb.co/ySYLMJy/battle-rope.jpg",
+      "age": "20-50",
+      "name": "Battle Rope"
+    },
+    {
+      "id": "63350faf15f4666105f3fbda",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 30,
+      "breakTime": 10,
+      "picture": "https://i.ibb.co/RHrDhZ4/bysep.jpg",
+      "age": "18-50",
+      "name": "Triceps Exercise"
+    },
+    {
+      "id": "63350fafe8f0368bd721f2a5",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 25,
+      "breakTime": 30,
+      "picture": "https://i.ibb.co/ZzWpNNj/running.jpg",
+      "age": "10-80",
+      "name": "Running"
+    },
+    {
+      "id": "63350faf0596bf5a0ccc8ad4",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 50,
+      "breakTime": 40,
+      "picture": "https://i.ibb.co/Vw8Twc6/squat.jpg",
+      "age": "24-55",
+      "name": "Squats"
+    },
+    {
+      "id": "63350fafc21395c8080cc925",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 25,
+      "breakTime": 20,
+      "picture": "https://i.ibb.co/4g0X6qR/upsh-up.jpg",
+      "age": "15-60",
+      "name": "Push-up"
+    },
+    {
+      "id": "63350fafcc63a5abc3fc2559",
+      "description": "WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person’s work.",
+      "time": 35,
+      "breakTime": 35,
+      "picture": "https://i.ibb.co/m5nbvrn/yoga.jpg",
+      "age": "10-80",
+      "name": "Yoga"
+    }
+  ]
