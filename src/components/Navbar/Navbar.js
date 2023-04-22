@@ -26,7 +26,7 @@ const Navbar = () => {
     </div>
     <img src="{logo}" alt="" />
     {/* <a className="btn btn-ghost normal-case text-xl">daisyUI</a> */}
-    <img className="w-36" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Kayak_Logo.svg" alt="" />
+    <img className="w-40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Kayak_Logo.svg" alt="" />
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -44,7 +44,7 @@ const Navbar = () => {
       <li><a className="font-semibold">Blog</a></li>
     </ul>
   </div>
-  <div className="navbar-end">
+  <div className="hidden md:block">
     <a className="btn btn-success mr-3 ">Login</a>
     <a className="btn btn-success">Registerd</a>
   </div>
